@@ -4,4 +4,5 @@ shoes
 bags
 houses
 books
-
+lip stick
+powder
